@@ -1,2 +1,2 @@
 Test file for jenkins
-Hehe
+Hehe, new line.
